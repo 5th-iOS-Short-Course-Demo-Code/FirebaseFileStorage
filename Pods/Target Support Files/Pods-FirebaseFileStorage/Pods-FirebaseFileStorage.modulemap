@@ -1,0 +1,6 @@
+framework module Pods_FirebaseFileStorage {
+  umbrella header "Pods-FirebaseFileStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
